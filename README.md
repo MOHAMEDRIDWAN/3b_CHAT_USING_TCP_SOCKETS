@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+# NAME : MOHAMED RIDWAN A
+# REG NO : 212223110030
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
